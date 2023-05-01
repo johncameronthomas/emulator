@@ -1,0 +1,6 @@
+c = a + b
+
+create a alu_reg_1
+create b alu_reg_2
+add
+store alu_reg_3 @ ram
